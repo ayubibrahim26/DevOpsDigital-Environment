@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    background: #1e90ff;
+    color: #fff;
+    padding: 1.5rem 1rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    padding: 0.5rem;
+    background: #333;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: white;
+}
+
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 1rem;
+}
